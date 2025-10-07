@@ -4,6 +4,10 @@ This is a sample application for the [Software Engineering](http://www.mit.bme.h
 
 The application is simplified and deliberately contains bugs.
 
+[![Java CI with Maven](https://github.com/bme-softwertechnologia-43/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/bme-softwertechnologia-43/se-lab/actions/workflows/maven.yml)
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 ## Getting started
 
 - The project is implemented in Java 11.
